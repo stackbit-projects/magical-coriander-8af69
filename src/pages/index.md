@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Sparky!'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Welcome to my site's home page! I will take you with me on my journey of
+      learning code. you will see the my blog post. Oh! Don't forget to follow 
   - section_id: about
     type: section_content
     title: About
